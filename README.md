@@ -1,5 +1,9 @@
 # Microcontroller Projects
 
+## Overview:
+
+This repository is a compilation of microcontroller projects utilizing popular microcontroller platforms such as Arduino, PIC24, and ESP-based systems.
+
 ### Project 1: Arduino Temperature Control System with PID
 Description: This project involves modeling and implementing a temperature control system using a PID controller on an Arduino Uno. The system's objective is to maintain a setpoint temperature by utilizing feedback from a temperature sensor. The PID controller adjusts the heating or cooling output based on the difference between the measured temperature and the setpoint, ensuring precise temperature regulation in real-time.
 
